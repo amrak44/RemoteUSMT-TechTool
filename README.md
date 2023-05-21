@@ -12,5 +12,6 @@ This hasnt been extensively tested, so if you run into any issues with the code 
 
 This requires you are a local administrator of the target PC and have remote WMI access to the computer.  Some features require 3rd party programs that arent provided.  Namely 7zip and CMTrace.  
 
+![image](https://github.com/amrak44/RemoteUSMT-TechTool/assets/71808252/db69c199-04ef-4dfd-9e96-f7650039b6b4)
 
 ![Screenshot 2023-05-21 053045](https://github.com/amrak44/RemoteUSMT-TechTool/assets/71808252/bd679f2f-3e55-4200-b6a0-c2ca70b44a8a)
